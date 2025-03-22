@@ -21,9 +21,7 @@ const prompt = require("prompt-sync")();
 // console.log("you are right")
 
 
-// function
 
-// function
 // function
 const mean = (a,b,c,d,e)=>{
     return (a+b+c+d+e)/5
