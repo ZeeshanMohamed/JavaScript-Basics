@@ -15,3 +15,10 @@ let u = num.unshift(88)  // adds an element from start of array
 console.log(u)
 console.log(num)
 
+// let a = 'faheem'
+// let b = a.split('').reverse().join('')
+// let c = a.split('').sort().join('')
+// console.log(a.split(''))
+// console.log(b)
+// console.log(c)
+// console.log(a === b)
