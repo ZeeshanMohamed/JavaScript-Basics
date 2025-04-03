@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+nav{
+    display: flex;
+    margin: 20px;
+    background-color: rgb(209, 128, 128);
+}
+
+li{
+    list-style: none;
+    margin-right: 25px;
+}
